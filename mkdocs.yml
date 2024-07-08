@@ -1,0 +1,8 @@
+site_name: "app-demo-master"
+site_description: "app-demo-master"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

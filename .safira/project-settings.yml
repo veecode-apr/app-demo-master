@@ -1,0 +1,8 @@
+project:
+  name: app-demo-master
+  description: app-demo-master
+  java:
+    package: codes.platform.demo
+  language: java
+  framework: springboot
+  applicationPort: 8080
